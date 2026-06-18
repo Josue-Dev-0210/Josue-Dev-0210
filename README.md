@@ -61,12 +61,12 @@ Software Developer & IT Specialist focused on Python, Linux, cybersecurity, netw
 ```bash
 CERTIFICATIONS
 
-[Python Developer]               freeCodeCamp   (~300h)
-[Relational Database]           freeCodeCamp   (~300h)
-[Cybersecurity & Ethical Hacking] BIG School     (~48h)
-[AI Development Fundamentals]    BIG School     (~48h)
-[C++ Fundamentals]              SENA           (~40h)
-[LEGO WeDo Robotics]            REDCOLSI       (~48h)
+[Python Developer]                  freeCodeCamp     (~300h)
+[Relational Database]               freeCodeCamp     (~300h)
+[Cybersecurity & Ethical Hacking]   BIG School       (~48h)
+[AI Development Fundamentals]       BIG School       (~48h)
+[C++ Fundamentals]                  SENA             (~40h)
+[LEGO WeDo Robotics]                REDCOLSI         (~48h)
 
 STATUS: ACTIVE
 ```
