@@ -59,7 +59,7 @@ Software Developer & IT Specialist focused on Python, Linux, cybersecurity, netw
 ## `$ cat certifications/`
 
 
-<img src="assets/certifications.svg" width="100%" alt="certifications">
+<img src="./assets/certifications.svg" width="100%" alt="certifications">
 ---
 
 ## `$ git log --stats`
