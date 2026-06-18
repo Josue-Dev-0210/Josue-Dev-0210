@@ -50,9 +50,9 @@ x="95"
 y="82"
 fill="#00FFFF"
 font-size="18"
-font-family="Arial Black">
+font-family="Verdana">
 
-SYSTEM PROFILE
+System Profile
 
 </text>
 
@@ -61,10 +61,10 @@ x="70"
 y="145"
 fill="#FFFFFF"
 font-size="48"
-font-family="Arial Black"
+font-family="Verdana"
 letter-spacing="2">
 
-JOSUE CACERES I
+Josue Caceres I
 
 </text>
 
@@ -73,11 +73,11 @@ x="70"
 y="182"
 fill="#B44DFF"
 font-size="26"
-font-family="Arial"
+font-family="Verdana"
 font-weight="bold"
 letter-spacing="3">
 
-SOFTWARE DEVELOPER
+Software Developer
 
 </text>
 
@@ -86,7 +86,7 @@ x="70"
 y="220"
 fill="#00FFFF"
 font-size="21"
-font-family="Consolas">
+font-family="Verdana">
 
 Python | C++ | JavaScript
 
@@ -97,7 +97,7 @@ x="70"
 y="248"
 fill="#00FFFF"
 font-size="21"
-font-family="Consolas">
+font-family="Verdana">
 
 Networks | Cybersecurity
 
@@ -125,10 +125,10 @@ x="115"
 y="295"
 fill="#00FF66"
 font-size="18"
-font-family="Consolas"
+font-family="Verdana"
 font-weight="bold">
 
-STATUS : ONLINE
+Status : ONLINE
 
 </text>
 
@@ -147,7 +147,7 @@ x="790"
 y="110"
 fill="#888888"
 font-size="16"
-font-family="Consolas">
+font-family="Verdana">
 
 LOCATION
 
@@ -158,7 +158,7 @@ x="790"
 y="145"
 fill="#FFFFFF"
 font-size="30"
-font-family="Arial Black">
+font-family="Verdana">
 
 MONTERIA_CO
 
@@ -169,7 +169,7 @@ x="790"
 y="190"
 fill="#888888"
 font-size="16"
-font-family="Consolas">
+font-family="Verdana">
 
 WEBSITE
 
@@ -180,7 +180,7 @@ x="790"
 y="225"
 fill="#00FFFF"
 font-size="24"
-font-family="Arial"
+font-family="Verdana"
 font-weight="bold">
 
 josue-dev-02.tech
@@ -192,7 +192,7 @@ x="790"
 y="265"
 fill="#B44DFF"
 font-size="16"
-font-family="Consolas">
+font-family="Verdana">
 
 ROOT ACCESS GRANTED
 
