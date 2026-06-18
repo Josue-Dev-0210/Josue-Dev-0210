@@ -1,20 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=B44DFF&center=true&vCenter=true&width=700&lines=Josu%C3%A9+C%C3%A1ceres+Iriarte;Software+Developer;IT+Specialist;Python+%7C+Networks+%7C+Cybersecurity" />
-<br/>
-
-<pre>
-╔══════════════════════════════════════════════════════════╗
-║  >> Técnico en Sistemas y Redes · SENA Dev · Híbrido    ║
-║  >> Montería, Colombia · GMT-5                          ║
-║  >> josue-dev-02.tech                                   ║
-╚══════════════════════════════════════════════════════════╝
-</pre>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-josue--dev--02.tech-b44dff?style=for-the-badge&logo=firefox&logoColor=white)](https://josue-dev-02.tech)
-
-[![Email](https://img.shields.io/badge/Email-Josue.dev.0210@gmail.com-b44dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Josue.dev.0210@gmail.com)
-
+  <img src="./assets/banner.svg" width="100%">
 </div>
 
 ---
