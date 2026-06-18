@@ -58,14 +58,11 @@ Software Developer & IT Specialist focused on Python, Linux, cybersecurity, netw
 
 ## `$ cat certifications/`
 
-```
-✓  Python Developer Certification         freeCodeCamp  ·  Mar 2026  (~300h)
-✓  Relational Database Certification      freeCodeCamp  ·  Abr 2026  (~300h)
-✓  Ciberseguridad y Hacking Ético         BIG School    ·  Abr 2026  (~48h)
-✓  Iniciación al Desarrollo con IA        BIG School    ·  Mar 2026  (~48h)
-✓  Conceptualización del lenguaje C++     SENA          ·  Mar 2026  (~40h)
-✓  Taller Robótica LEGO WeDo — EDESI 2025 REDCOLSI Córdoba · May 2025 (~48h)
-```
+<div align="center">
+
+<img src="./assets/certifications.svg" width="100%" alt="Certifications Banner">
+
+</div>
 
 ---
 
