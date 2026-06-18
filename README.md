@@ -58,8 +58,30 @@ Software Developer & IT Specialist focused on Python, Linux, cybersecurity, netw
 
 ## `$ cat certifications/`
 
+CERTIFICATIONS
+────────────────────
 
-<img src="./assets/certifications.svg" width="100%" alt="certifications">
+✓ Python Developer
+  freeCodeCamp · ~300h
+
+✓ Relational Database
+  freeCodeCamp · ~300h
+
+✓ Cybersecurity & Ethical Hacking
+  BIG School · ~48h
+
+✓ AI Development Fundamentals
+  BIG School · ~48h
+
+✓ C++ Fundamentals
+  SENA · ~40h
+
+✓ LEGO WeDo Robotics Workshop
+  REDCOLSI Córdoba · ~48h
+
+────────────────────
+TRAINING STATUS : ACTIVE
+
 ---
 
 ## `$ git log --stats`
