@@ -60,7 +60,7 @@ Software Developer & IT Specialist focused on Python, Linux, cybersecurity, netw
 
 <div align="center">
 
-<img src="./assets/certifications.svg" width="100%" alt="Certifications Banner">
+<img src="assets/certifications.svg" width="100%">
 
 </div>
 
