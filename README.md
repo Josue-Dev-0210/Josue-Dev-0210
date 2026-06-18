@@ -58,8 +58,9 @@ Software Developer & IT Specialist focused on Python, Linux, cybersecurity, netw
 
 ## `$ cat certifications/`
 
+
 <div align="center">
-  <img src="assets/certifications.svg" width="100%" alt="Certifications">
+  <img src="assets/certifications.svg" width="100%" alt="certifications">
 </div>
 
 ---
