@@ -109,7 +109,7 @@ Software Developer & IT Specialist focused on Python, Linux, cybersecurity, netw
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Josue-Dev-0210&theme=radical&hide_border=true&background=0d0015&stroke=b44dff&ring=b44dff&fire=ff00ff&currStreakLabel=b44dff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Josue-Dev-0210&theme=radical&hide_border=true)
 
 </div>
 
