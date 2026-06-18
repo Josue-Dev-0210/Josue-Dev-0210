@@ -4,19 +4,6 @@
 
 ---
 
-## `$ whoami`
-
-```python
-desarrollador = {
-    "nombre":     "Josué Cáceres Iriarte",
-    "ubicacion":  "Montería, Colombia 🇨🇴",
-    "enfoque":    ["Desarrollo Web", "Redes", "Ciberseguridad"],
-    "estudiando": ["Sistemas y Redes — San Agustín",
-                   "Análisis y Desarrollo de Software — SENA"],
-    "disponible": True
-}
-```
-
 Software Developer & IT Specialist focused on Python, Linux, cybersecurity, networking, and modern web technologies. Passionate about building real-world solutions, scalable systems, and continuously learning new technologies.
 
 ---
