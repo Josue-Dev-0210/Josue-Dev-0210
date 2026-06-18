@@ -1,4 +1,10 @@
-<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="1200" height="500"
+viewBox="0 0 1200 500"
+xmlns="http://www.w3.org/2000/svg"
+shape-rendering="geometricPrecision"
+text-rendering="geometricPrecision">
 
 <defs>
 
@@ -70,43 +76,37 @@ CERTIFICATIONS
 
 </text>
 
-
 <text x="70" y="185" fill="#FFFFFF" font-size="19" font-family="Verdana">
-✓ Python Developer Certification
+&#10003; Python Developer Certification
 </text>
 
 <text x="95" y="210" fill="#8A8A8A" font-size="14" font-family="Verdana">
 freeCodeCamp · March 2026 · ~300h
 </text>
 
-
 <text x="70" y="255" fill="#FFFFFF" font-size="19" font-family="Verdana">
-✓ Relational Database Certification
+&#10003; Relational Database Certification
 </text>
 
 <text x="95" y="280" fill="#8A8A8A" font-size="14" font-family="Verdana">
 freeCodeCamp · April 2026 · ~300h
 </text>
 
-
 <text x="70" y="325" fill="#FFFFFF" font-size="19" font-family="Verdana">
-✓ Cybersecurity & Ethical Hacking
+&#10003; Cybersecurity & Ethical Hacking
 </text>
 
 <text x="95" y="350" fill="#8A8A8A" font-size="14" font-family="Verdana">
 BIG School · April 2026 · ~48h
 </text>
 
-
 <text x="70" y="395" fill="#FFFFFF" font-size="19" font-family="Verdana">
-✓ AI Development Fundamentals
+&#10003; AI Development Fundamentals
 </text>
 
 <text x="95" y="420" fill="#8A8A8A" font-size="14" font-family="Verdana">
 BIG School · March 2026 · ~48h
 </text>
-
-
 
 <rect
 x="680"
@@ -119,22 +119,21 @@ stroke="#B44DFF"
 />
 
 <text x="710" y="150" fill="#FFFFFF" font-size="19" font-family="Verdana">
-✓ Conceptualization of C++
+&#10003; Conceptualization of C++
 </text>
 
 <text x="735" y="175" fill="#8A8A8A" font-size="14" font-family="Verdana">
 SENA · March 2026 · ~40h
 </text>
 
-
-
 <text x="710" y="240" fill="#FFFFFF" font-size="19" font-family="Verdana">
-✓ LEGO WeDo Robotics Workshop
+&#10003; LEGO WeDo Robotics Workshop
 </text>
 
 <text x="735" y="265" fill="#8A8A8A" font-size="14" font-family="Verdana">
 REDCOLSI Córdoba · May 2025 · ~48h
 </text>
+
 
 <line
 x1="710"
