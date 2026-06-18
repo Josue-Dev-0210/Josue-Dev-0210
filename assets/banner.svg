@@ -1,153 +1,209 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
+<defs>
 
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="100%" stop-color="#12001F"/>
-    </linearGradient>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#04030A"/>
+<stop offset="100%" stop-color="#12001F"/>
+</linearGradient>
 
-    <filter id="glowPurple">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+<filter id="glowPurple">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
 
-  </defs>
+<filter id="glowCyan">
+<feGaussianBlur stdDeviation="3" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
+</defs>
 
+<rect width="1200" height="300" fill="url(#bg)"/>
 
-  <path
-  d="M40 40
-     H1120
-     L1160 80
-     V240
-     L1120 260
-     H80
-     L40 220
-     Z"
+<path
+d="M40 40
+H1090
+L1160 95
+V230
+L1110 260
+H80
+L40 220
+Z"
 
-  fill="none"
-  stroke="#B44DFF"
-  stroke-width="2"
-  filter="url(#glowPurple)"
-  />
+fill="none"
+stroke="#B44DFF"
+stroke-width="2"
+filter="url(#glowPurple)"
+/>
 
+<line
+x1="70"
+y1="70"
+x2="320"
+y2="70"
+stroke="#00FFFF"
+stroke-width="3"
+filter="url(#glowCyan)"
+/>
 
-  <line x1="60" y1="75" x2="350" y2="75"
-        stroke="#00FFFF"
-        stroke-width="3"/>
+<line
+x1="870"
+y1="70"
+x2="1120"
+y2="70"
+stroke="#00FFFF"
+stroke-width="3"
+filter="url(#glowCyan)"
+/>
 
-  <line x1="850" y1="75" x2="1130" y2="75"
-        stroke="#00FFFF"
-        stroke-width="3"/>
+<circle
+cx="1095"
+cy="230"
+r="5"
+fill="#00FFFF"
+/>
 
-  <text
-  x="70"
-  y="110"
-  fill="#FFFFFF"
-  font-size="42"
-  font-family="Verdana"
-  font-weight="bold">
+<circle
+cx="1115"
+cy="230"
+r="5"
+fill="#B44DFF"
+/>
 
-  JOSUE CACERES IRIARTE
+<circle
+cx="1135"
+cy="230"
+r="5"
+fill="#00FF66"
+/>
 
-  </text>
+<text
+x="70"
+y="112"
+fill="#FFFFFF"
+font-size="44"
+font-family="Trebuchet MS"
+font-weight="bold"
+letter-spacing="2">
 
-  <text
-  x="70"
-  y="150"
-  fill="#B44DFF"
-  font-size="26"
-  font-family="Verdana">
+JOSUE CACERES IRIARTE
 
-  SOFTWARE DEVELOPER // IT SPECIALIST
+</text>
 
-  </text>
+<text
+x="70"
+y="150"
+fill="#B44DFF"
+font-size="24"
+font-family="Trebuchet MS"
+letter-spacing="3">
 
-  <text
-  x="70"
-  y="190"
-  fill="#00FFFF"
-  font-size="22"
-  font-family="Verdana">
+SOFTWARE DEVELOPER // IT SPECIALIST
 
-  Python | C++ | JS | Networks | Cybersecurity
+</text>
 
-  </text>
+<text
+x="70"
+y="188"
+fill="#00FFFF"
+font-size="22"
+font-family="Consolas"
+letter-spacing="1">
 
-  <rect
-  x="70"
-  y="220"
-  width="340"
-  height="40"
-  rx="6"
-  fill="#090012"
-  stroke="#00FFFF"/>
+Python | C++ | JavaScript | Networks | Cybersecurity
 
-  <circle
-  cx="95"
-  cy="240"
-  r="7"
-  fill="#00FF66"/>
+</text>
 
-  <text
-  x="115"
-  y="247"
-  fill="#00FF66"
-  font-size="18"
-  font-family="Verdana">
+<rect
+x="70"
+y="220"
+width="300"
+height="38"
+rx="6"
+fill="#090012"
+stroke="#00FFFF"
+/>
 
-  STATUS : ONLINE
+<circle
+cx="92"
+cy="239"
+r="6"
+fill="#00FF66"
+/>
 
-  </text>
+<text
+x="110"
+y="245"
+fill="#00FF66"
+font-size="17"
+font-family="Consolas"
+letter-spacing="1">
 
+STATUS : ONLINE
 
-  <text
-  x="780"
-  y="145"
-  fill="#AAAAAA"
-  font-size="18"
-  font-family="Verdana">
+</text>
 
-  LOCATION
+<text
+x="760"
+y="118"
+fill="#7F7F7F"
+font-size="16"
+font-family="Consolas">
 
-  </text>
+LOCATION
 
-  <text
-  x="780"
-  y="170"
-  fill="#FFFFFF"
-  font-size="24"
-  font-family="Verdana">
+</text>
 
-  MONTERÍA_CO
+<text
+x="760"
+y="150"
+fill="#FFFFFF"
+font-size="28"
+font-family="Trebuchet MS"
+font-weight="bold">
 
-  </text>
+MONTERIA_CO
 
-  <text
-  x="780"
-  y="210"
-  fill="#AAAAAA"
-  font-size="18"
-  font-family="Verdana">
+</text>
 
-  WEBSITE
+<text
+x="760"
+y="190"
+fill="#7F7F7F"
+font-size="16"
+font-family="Consolas">
 
-  </text>
+WEBSITE
 
-  <text
-  x="780"
-  y="235"
-  fill="#FFFFFF"
-  font-size="22"
-  font-family="Verdana">
+</text>
 
-  josue-dev-02.tech
+<text
+x="760"
+y="222"
+fill="#00FFFF"
+font-size="22"
+font-family="Trebuchet MS">
 
-  </text>
+josue-dev-02.tech
+
+</text>
+
+<text
+x="760"
+y="255"
+fill="#B44DFF"
+font-size="16"
+font-family="Consolas">
+
+ROOT ACCESS GRANTED
+
+</text>
 
 </svg>
