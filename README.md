@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=B44DFF&center=true&vCenter=true&width=600&lines=Josué+Cáceres+Iriarte;Software+Developer;IT+Specialist;Python+%7C+Networks+%7C+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=B44DFF&center=true&vCenter=true&width=600&lines=Josu%C3%A9+C%C3%A1ceres+Iriarte;Software+Developer;IT+Specialist;Python+%7C+Networks+%7C+Security" alt="Typing SVG" />
 
 <br/>
 
-```
+<pre>
 ╔══════════════════════════════════════════════════════════╗
-║  >> Técnico en Sistemas y Redes · SENA Dev · Hibrido     ║
-║  >> Montería, Colombia · GMT 5                           ║
-║  >> josue-dev-02.tech                                    ║
+║  >> Técnico en Sistemas y Redes · SENA Dev · Híbrido    ║
+║  >> Montería, Colombia · GMT-5                          ║
+║  >> josue-dev-02.tech                                   ║
 ╚══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-josue--dev--02.tech-b44dff?style=for-the-badge&logo=firefox&logoColor=white)](https://josue-dev-02.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josué_Cáceres-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+
 [![Email](https://img.shields.io/badge/Email-Josue.dev.0210@gmail.com-b44dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Josue.dev.0210@gmail.com)
 
 </div>
