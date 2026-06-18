@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=B44DFF&center=true&vCenter=true&width=600&lines=Josu%C3%A9+C%C3%A1ceres+Iriarte;Software+Developer;IT+Specialist;Python+%7C+Networks+%7C+Security" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=B44DFF&center=true&vCenter=true&width=700&lines=Josu%C3%A9+C%C3%A1ceres+Iriarte;Software+Developer;IT+Specialist;Python+%7C+Networks+%7C+Cybersecurity" />
 <br/>
 
 <pre>
