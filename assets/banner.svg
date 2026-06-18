@@ -1,0 +1,103 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0d0015"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect
+    x="20"
+    y="20"
+    width="1160"
+    height="280"
+    rx="14"
+    fill="none"
+    stroke="#B44DFF"
+    stroke-width="2"
+    filter="url(#glow)"
+  />
+  <line x1="60" y1="75" x2="280" y2="75"
+        stroke="#B44DFF"
+        stroke-width="3"/>
+  <line x1="920" y1="75" x2="1140" y2="75"
+        stroke="#B44DFF"
+        stroke-width="3"/>
+  <text
+    x="70"
+    y="95"
+    fill="#FFFFFF"
+    font-size="48"
+    font-family="Orbitron"
+    font-weight="700">
+    JOSUÉ CÁCERES IRIARTE
+  </text>
+  <text
+    x="70"
+    y="145"
+    fill="#B44DFF"
+    font-size="28"
+    font-family="Orbitron">
+    Software Developer // IT Specialist
+  </text>
+  <text
+    x="70"
+    y="190"
+    fill="#00FFFF"
+    font-size="24"
+    font-family="Share Tech Mono">
+    Python | C++ | JS | Networks | Cybersecurity
+  </text>
+  <rect
+    x="70"
+    y="220"
+    width="500"
+    height="55"
+    rx="8"
+    fill="#0A0015"
+    stroke="#B44DFF"/>
+  <text
+    x="95"
+    y="255"
+    fill="#7CFF7C"
+    font-size="22"
+    font-family="Share Tech Mono">
+    root@josue:~$ status ONLINE
+  </text>
+  <rect
+    x="870"
+    y="110"
+    width="220"
+    height="50"
+    rx="8"
+    fill="#0A0015"
+    stroke="#00FFFF"/>
+  <circle
+    cx="900"
+    cy="135"
+    r="8"
+    fill="#00FF7F"/>
+  <text
+    x="920"
+    y="142"
+    fill="#00FF7F"
+    font-size="24"
+    font-family="Share Tech Mono">
+    SYSTEM ONLINE
+  </text>
+  <text
+    x="70"
+    y="300"
+    fill="#AAAAAA"
+    font-size="18"
+    font-family="Share Tech Mono">
+    https://josue-dev-02.tech
+  </text>
+</svg>
