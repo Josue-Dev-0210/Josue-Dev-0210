@@ -69,7 +69,7 @@ CERTIFICATIONS
 [LEGO WeDo Robotics]            REDCOLSI       (~48h)
 
 STATUS: ACTIVE
-``
+```
 ---
 
 ## `$ git log --stats`
