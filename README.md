@@ -49,10 +49,10 @@ Software Developer & IT Specialist focused on Python, Linux, cybersecurity, netw
 |---|---|---|
 | 🖥️ **Interactive Terminal Style CV** | `HTML` `CSS` `JS` `SVG` | [→ Live](https://josue-dev-0210.github.io/Interactive-Terminal-Style-CV/) |
 | 📊 **Vuln Manager JC** | `JS` `CSS` `HTML` | [→ Clone](https://github.com/Josue-Dev-0210/Vuln-Manager-JC) |
-| 🌐 **Net Scanner JC** | `Canvas API` `SVG` `JS` | [→ Live](https://josue-dev-0210.github.io/Network-Scanner-Visual/) |
-| 🔢 **Calculadora Subredes JC** | `JS` `SheetJS` `jsPDF` | [→ Live](https://josue-dev-0210.github.io/Calculadora-de-Subredes/) |
+| 🌐 **Net Scanner JC** | `Canvas API` `SVG` `JS` | [→ Live](https://josue-dev-0210.github.io/Net-Scanner-JC/) |
+| 🔢 **Calculadora Subredes JC** | `JS` `SheetJS` `jsPDF` | [→ Live](https://josue-dev-0210.github.io/Calculadora-Subredes-JC/) |
 | 🔐 **Password Tester JC** | `JS` | [→ Live](https://josue-dev-0210.github.io/Password-tester-JC/) |
-| 🐧 **Linuxdex** | `HTML` `CSS` `JS` | [→ Live](https://josue-dev-0210.github.io/Linuxdex/) |
+| 🐧 **Linuxdex** | `HTML` `CSS` `JS` | [→ Live](https://josue-dev-0210.github.io/LinuxDex/) |
 
 ---
 
